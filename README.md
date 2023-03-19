@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MOVIE+SEARCH+BOT+!;CREATED+BY+TECHNICAL+CYNITE!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THIS+IS+A+MOVIE+SEARCH+BOT+!;CREATED+BY+🧑🏻‍🔧+SHYAM+SUNDAR!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
 </p>
